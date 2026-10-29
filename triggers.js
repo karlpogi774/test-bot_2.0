@@ -28,8 +28,7 @@ const groups = [
     ]
   },
   {
-    {
-  name: "ryuk",
+    name: "ryuk",
   triggers: ["ryuk", "malakas", "pogi", "king"],
   replies: [
     "syempre, ako pa si Ryuk eh",
@@ -52,7 +51,7 @@ const groups = [
     "respeto lang kay Ryuk, at ligtas kayo",
     "ang dating ko? hindi mo kaya sabayan",
     "syempre, Ryuk to eh — walang tatalo"
-        ]
+    ]
   },
   {
     name: "trash-talk",
