@@ -28,6 +28,32 @@ const groups = [
     ]
   },
   {
+    name: "Rantss",
+triggers: ["crush", "gusto kita", "mahal kita", "hello", "hi"],
+replies: [
+  "h-hi.. 😳 ganda mo tlga",
+  "ewan ko bkit, pero nkngiti ako pg nandyan k",
+  "ang ganda mo nmn lgi, prang araw 😊",
+  "wag k muna tma, hnd ko maipaliwanag eh",
+  "ikaw yung rason bkit nkkngiti ako ngyon",
+  "hnndi ako magaling magsalita, pero seryoso ako syo",
+  "pag nakikita k ko, nkakalimutan ko lahat ng problema ko",
+  "sana ako nlng piliin mo, plss 🥺",
+  "ang ganda ng ngiti mo, nakakawala ng pagod",
+  "prang lgi akong ngwawagi pg kausap k kita",
+  "hndi ko alam pno sabihin, pero special k sakin",
+  "ikaw yung una kong iniisip pg nagigising ako",
+  "sana hndi magbago yung pakiramdam ko sayo",
+  "mnsan tnga ako, pero hndi ako mali pagdating syo",
+  "ang ganda mo tlga, wla na ako masabi eh 😅",
+  "lwag mong alam, ikaw yung paborito kong kausap",
+  "pg kasama kita, parang okay lahat ng bagay",
+  "sana ako yung taong magpapasaya sayo araw-araw",
+  "ikaw lang, wla nang iba. pramis 💖",
+  "mnsan mahiyain ako, pero gusto kita, totoo yan"
+  ]
+  },
+  {
     name: "ryuk",
   triggers: ["ryuk", "malakas", "pogi", "king"],
   replies: [
@@ -155,6 +181,32 @@ const groups = [
       "baby, saan po nag-road trip ang common sense?",
       "baby, ang reply mo po nag-lag sa landing.",
       "baby, ikaw po talaga ang definition ng cute disaster."
+    ]
+  },
+  {
+    name: "Rantss",
+    triggers: ["bot", "robot", "ai"],
+    replies: [
+   "p*taa, ang kulit mo nmn bwiset",
+   "t*ngina, sabi hndi bot eh",
+   "g*go ka ba? bulag k ba tlga??",
+   "p*nyeta, wag mo ko kulitin pls",
+   "l*che, ubos na pasensya ko syo",
+   "k*pal talaga yung taong to prang",
+   "bwisit na bwiset nako sayo prang",
+   "pt*ng ina, ang daldal mo tlga",
+   "g*go, wla ka nmng kwenta diba?",
+   "t*nga k ba o sadyang ganon k lng?",
+   "p*taa, layo ka nga sakin nakakabwisit",
+   "t*nginah, paulit-ulit k lng ba?",
+   "g*go ka nmn prang wlang utak",
+   "p*nyeta, wla akong oras sayo",
+   "bwisit, wag ka dyan umepal dyan",
+   "t*ngina, ang ingay mo nakak lito",
+   "p*taa, tulog ka nlng bka masira utak mwo",
+   "g*go talaga yung kumag na to",
+   "l*che, anong gusto mo sakin ha?",
+   "pt*ng ina, pwede ba tumigil k na?"
     ]
   },
   {
