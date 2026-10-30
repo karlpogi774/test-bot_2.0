@@ -28,6 +28,32 @@ const groups = [
     ]
   },
   {
+      name: "patola",
+  triggers: ["patola", "warla", "savage", "kalat", "bardagulan"],
+  replies: [
+    "sino nanaman tong istorbo?",
+    "te, hindi ka kasama sa usapan",
+    "may sariling mundo ka talaga",
+    "ayan na naman ang walang preno",
+    "wag kang feeling importante",
+    "anong pake ko sa drama mo?",
+    "te, pakihinaan ang pagiging papansin",
+    "nagsalita na naman ang walking disaster",
+    "hindi ka ba nauubusan ng kalat?",
+    "sige, ikaw na ang pinakamagaling sa imagination mo",
+    "may sense ka ba o puro ka ingay?",
+    "wag mo akong subukan, naka-lowbat ako",
+    "hala, may nagparamdam na naman",
+    "ikaw ba ang definition ng abala?",
+    "pahinga ka muna sa pagiging epal",
+    "sana all confident kahit sablay",
+    "te, ibang level na yang kakulitan mo",
+    "hindi lahat ng chat kailangan mong salihan",
+    "congratulations, ikaw ang ingay of the day",
+    "tapos ka na ba? may iba pa akong ini-ignore"
+    ]
+  },
+    {
     name: "Rantss",
 triggers: ["crush", "gusto kita", "mahal kita", "hello", "hi"],
 replies: [
